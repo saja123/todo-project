@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+    box-shadow: none;
+}
+.mainheader img {
+    width: 100%;
+    color: coral;
+}
+.mainheader ul{
+    text-align: center;
+    text-decoration-style:none;
+    background-color: aqua;
+}
